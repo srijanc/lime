@@ -1,3 +1,10 @@
+# Data
+/doc/notebooks/data/
+/doc/notebooks/data/explained_data/*
+*.csv
+*.html
+*.txt
+
 # Compiled python modules.
 *.pyc
 
